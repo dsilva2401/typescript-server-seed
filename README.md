@@ -20,3 +20,8 @@ gulp build
 ```bash
 gulp serve
 ```
+
+## Generate docs
+```bash
+gulp docs
+```
