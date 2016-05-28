@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "module": "amd",
+        "target": "es6"
+    },
+    "outFile": "built.js",
+    "exclude": [
+        "node_modules",
+        "wwwroot"
+    ]
+}
